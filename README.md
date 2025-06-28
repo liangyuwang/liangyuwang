@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋 I'm Liangyu Wang (王良宇)
 
-<!--
-**liangyuwang/liangyuwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> PhD Candidate in Computer Science | Efficient LLM Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education & Research**
+- 📍 PhD @ [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/)
+- 🎓 Formerly @ [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), with [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang)
+- 🔬 Research interests: efficient LLM training/inference, algorithm and infrastructure design, and efficient privacy-aware learning
+
+---
+
+📚 **Find Me Online**
+- 🌐 [Personal Website](https://liangyuwang.github.io/)
+
+---
+
+📊 **GitHub Stats**
+
+<div align="center">
+
+<!-- Stats card -->
+<img src="https://github-readme-stats.vercel.app/api?username=liangyuwang&show_icons=true&theme=tokyonight&hide_title=true" width="48%"/>
+
+</div>
+
+---
+
+🌱 _Always exploring new ideas at the intersection of large-scale LLM systems._
