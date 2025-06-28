@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Liangyu Wang (王良宇)
 
-> PhD Candidate in Computer Science | Efficient LLM Systems
+> PhD Candidate in Computer Science | Qwen team | Efficient LLM Systems
 
 🎓 **Education & Research**
 - 📍 PhD @ [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/)
